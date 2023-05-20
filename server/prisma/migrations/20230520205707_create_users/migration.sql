@@ -4,7 +4,7 @@ CREATE TABLE "User" (
     "githubId" INTEGER NOT NULL,
     "name" TEXT NOT NULL,
     "login" TEXT NOT NULL,
-    "avatar" TEXT NOT NULL
+    "avatarUrl" TEXT NOT NULL
 );
 
 -- CreateIndex
