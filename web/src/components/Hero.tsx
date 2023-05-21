@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import nlwSpacetime from '../../assets/nlw-spacetime-logo.svg'
+import nlwSpacetime from '../assets/nlw-spacetime-logo.svg'
 
 export function Hero() {
   return (
